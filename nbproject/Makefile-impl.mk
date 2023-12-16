@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=FinalProblem2Hashing
+PROJECTNAME=FinalProblem1Hashing
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -46,23 +46,20 @@ int main(int argc, char** argv) {
         
     }
     
-    
-    int zeroCounter= 0; // how many indexes have zero; 
+    int counterSize=10; 
+    int arr[counterSize ]= {0} ; // array used for counting how many list have a certain size; their size will be the index 
     
     for(int i =0 ; i<size; i++ )
     {
-        if(listArr[i].size() == 0)
-        {
-            zeroCounter++; 
-        }
-        cout<<i<<": "; 
-        for(auto inits : listArr[i])
-        {
-            cout<< inits << " "; 
-        }cout<<endl; 
+        arr[listArr[i].size()] ++; 
     }
     
-    cout<<"Amount of list with no elements: "<<zeroCounter<<endl; 
+    
+    
+    for(int i =0; i< counterSize  ; i++ )
+    {
+        cout<<"List with "<< i <<" elements: "<< arr[i]<<endl; 
+    }
     return 0;
 }
 

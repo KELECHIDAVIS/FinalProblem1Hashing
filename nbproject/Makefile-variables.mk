@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=finalproblem2hashing
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/finalproblem2hashing
+CND_ARTIFACT_NAME_Debug=finalproblem1hashing
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/finalproblem1hashing
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=finalproblem2hashing.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/finalproblem2hashing.tar
+CND_PACKAGE_NAME_Debug=finalproblem1hashing.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/finalproblem1hashing.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=finalproblem2hashing
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/finalproblem2hashing
+CND_ARTIFACT_NAME_Release=finalproblem1hashing
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/finalproblem1hashing
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=finalproblem2hashing.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/finalproblem2hashing.tar
+CND_PACKAGE_NAME_Release=finalproblem1hashing.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/finalproblem1hashing.tar
 #
 # include compiler specific variables
 #
